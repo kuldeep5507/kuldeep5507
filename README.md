@@ -7,13 +7,19 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Python, Microsfot Power BI**
 
-- 👯 I’m looking to collaborate on [DVD Rental System](https://github.com/kuldeep5507/DVD-Rental-)
+- 👯 I’m looking to collaborate on [DVD Rental System PostgreSQL Project](https://github.com/kuldeep5507/DVD-Rental-)
 
-- 📝 I regularly write articles on [https://visualstudiocode8858.blogspot.com/](https://visualstudiocode8858.blogspot.com/)
+- 👯 I’m looking to collaborate on [UNICORN Company Analysis PostgreSQL Project](https://github.com/kuldeep5507/Unicorn_Companies-Analysis-Project)
 
-- 💬 Ask me about **Data Structure And Algorithm, SQL Query**
+- 👯 I’m looking to collaborate on [Real-World-SmartPhone-s-Dataset-Analysis PostgreSQL Project](https://github.com/kuldeep5507/Real-World-SmartPhone-s-Dataset-Analysis)
+  
+- 👯 I’m looking to collaborate on [IPL Sports Analysis PostgreSQL Project](https://github.com/kuldeep5507/IPL-Sports-Analysis-Project)
 
-- 📫 How to reach me **babushahab8858@gmail.com**
+- 📝 I regularly write articles on [https://visualstudiocode8858.blogspot.com/](https://tech-coding008.blogspot.com/search/label/PostgreSQL)
+
+- 💬 Ask me about **Data Structure And Algorithm, PostgreSQL Query**
+
+- 📫 How to reach me **Kulsingh2304@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
