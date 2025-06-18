@@ -1,12 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Kuldeep Singh</h1>
+<h1 align="center">Hi 👋, I'm **Kuldeep Singh**</h1>
 <h3 align="center">A passionate College Student from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep5507&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep5507" /> </p>
 
 - 🌱 I’m currently learning **PostgreSQL, Python, Microsfot Power BI**
-
+- 
+- 🔗 <a href="http://localhost:8888/notebooks/Desktop/JupyterPython/Friday.ipynb?">Visit Jupyter Notebook Session</a>
+- 
 - 👯 I’m looking to collaborate on [DVD Rental System PostgreSQL Project](https://github.com/kuldeep5507/DVD-Rental-)
 
 - 👯 I’m looking to collaborate on [UNICORN Company Analysis PostgreSQL Project](https://github.com/kuldeep5507/Unicorn_Companies-Analysis-Project)
@@ -17,6 +19,7 @@
 
 - 📝 I regularly write articles on [https://visualstudiocode8858.blogspot.com/](https://tech-coding008.blogspot.com/search/label/PostgreSQL)
 
+-
 - 💬 Ask me about **Data Structure And Algorithm, PostgreSQL Query**
 
 - 📫 How to reach me **Kulsingh2304@gmail.com**
