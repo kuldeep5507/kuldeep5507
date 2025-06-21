@@ -15,7 +15,7 @@
   
 - 👯 I’m looking to collaborate on [IPL Sports Analysis PostgreSQL Project](https://github.com/kuldeep5507/IPL-Sports-Analysis-Project)
 
-- 📝 I regularly write articles on [https://visualstudiocode8858.blogspot.com/](https://tech-coding008.blogspot.com/search/label/PostgreSQL)
+- 📝 I regularly write articles on [https://studysphere008.blogspot.com/](https://studysphere008.blogspot.com/)
 
 -
 - 💬 Ask me about **Data Structure And Algorithm, PostgreSQL Query**
